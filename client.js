@@ -9,3 +9,5 @@ ws.addEventListener("open", () => {
 ws.addEventListener("message", ({ data }) => {
     console.log(data);
 });
+
+// test
